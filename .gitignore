@@ -1,0 +1,9 @@
+*.aux
+*.blg
+*.bbl
+*.log
+*.out
+*.toc
+*.synctex.gz
+Supplementary Materials.pdf
+.vscode/
